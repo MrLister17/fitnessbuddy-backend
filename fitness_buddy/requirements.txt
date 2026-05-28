@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic
+huggingface_hub
+firebase-admin
+pandas
+requests
+python-dotenv

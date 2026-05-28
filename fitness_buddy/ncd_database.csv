@@ -1,0 +1,550 @@
+ID,Category,Context_Chunk,Source_URL
+1,Cancer - Definition,"Cancer is a group of related diseases that begins in cells, where extra cells keep dividing to form a mass of tissue called a tumor.",https://caro.doh.gov.ph/non-communicable-diseases/
+2,Cancer - Lifestyle Prevention,"To help lessen the risk of developing cancer, individuals should watch their diet, limit drinking alcoholic beverages, and do regular physical activity.",https://caro.doh.gov.ph/non-communicable-diseases/
+3,Stroke - Definition,"Cerebrovascular disease, also known as a stroke or ""brain attack,"" is an interruption of the blood supply to any part of the brain.",https://caro.doh.gov.ph/non-communicable-diseases/
+4,Stroke - Lifestyle Prevention,"To prevent cerebrovascular disease, you should eat a healthy diet, maintain a healthy weight, engage in regular physical activity, and drink alcohol in moderation.",https://caro.doh.gov.ph/non-communicable-diseases/
+5,Depression - Definition,Depression is characterized by either depressed mood or markedly diminished interest or pleasure in most activities of the day.,https://caro.doh.gov.ph/non-communicable-diseases/
+6,Depression - Lifestyle Prevention,"Psychological interventions such as cognitive therapy, behavior therapy, interpersonal therapy, and family therapy may be administered to help manage depression.",https://caro.doh.gov.ph/non-communicable-diseases/
+7,Diabetes - Definition,"Diabetes mellitus is a set of related diseases in which the body cannot regulate the amount of sugar, specifically glucose, in the blood.",https://caro.doh.gov.ph/non-communicable-diseases/
+8,Diabetes - Lifestyle Prevention,"To prevent diabetes, individuals should maintain a healthy diet, exercise regularly, and drink alcohol in moderation.",https://caro.doh.gov.ph/non-communicable-diseases/
+9,Obesity - Definition,Obesity and overweight are defined as abnormal or excessive fat accumulation that may impair health.,https://caro.doh.gov.ph/non-communicable-diseases/
+10,Obesity - Lifestyle Prevention,"To prevent and treat obesity, individuals should limit high-calorie and sugar intake, eat more fruits, vegetables, legumes, whole grains, and nuts, and engage in regular physical activity.",https://caro.doh.gov.ph/non-communicable-diseases/
+11,Hypertension - Definition,High blood pressure or hypertension is a common cardiovascular disease that serves as a major risk factor for developing a stroke.,https://caro.doh.gov.ph/non-communicable-diseases/
+12,Hypertension - Lifestyle Prevention,"To prevent high blood pressure, you should eat a nutritious, low-salt, low-fat diet, exercise regularly, maintain a healthy weight, drink alcohol in moderation, quit smoking, and reduce stress.",https://caro.doh.gov.ph/non-communicable-diseases/
+13,Heat Stroke - Definition,Heat stroke is the most severe form of heat illness that occurs when the body overheats and cannot cool down due to dehydration or a humid environment.,https://caro.doh.gov.ph/non-communicable-diseases/
+14,Heat Stroke - Lifestyle Prevention,"Prevention during hot weather includes limiting time outdoors, drinking plenty of water, avoiding alcohol or caffeinated drinks, wearing wide-brimmed hats, and scheduling heavy activities for cooler parts of the day.",https://caro.doh.gov.ph/non-communicable-diseases/
+15,Coronary Artery Disease - Definition,"Coronary Artery Disease is the blockage of arteries that supply blood to the heart, usually caused by the accumulation of plaques and hardening of the arteries.",https://caro.doh.gov.ph/non-communicable-diseases/
+16,Coronary Artery Disease - Lifestyle Prevention,"The most effective way to prevent heart disease is through lifestyle changes like eating a healthy, balanced diet with lower fat, engaging in regular physical activity, quitting smoking, and lowering alcohol intake.",https://caro.doh.gov.ph/non-communicable-diseases/
+17,COPD - Definition,"Chronic Obstructive Pulmonary Disease (COPD) is a life-threatening lung disease, including emphysema and chronic bronchitis, that causes airflow blockage and breathing problems.",https://caro.doh.gov.ph/non-communicable-diseases/
+18,COPD - Lifestyle Prevention,"To prevent COPD, individuals must quit smoking, avoid secondhand smoke, eliminate home and workplace air pollutants, and avoid respiratory infections.",https://caro.doh.gov.ph/non-communicable-diseases/
+19,Pinggang Pinoy - GROW Foods,"For body-building GROW foods, eat fish, shellfish, lean meat, poultry, eggs, and dried beans. Include fatty fish like tuna, sardines, and mackerel 2-3 times a week to provide essential fatty acids that help protect against heart diseases.",http://www.fnri.dost.gov.ph
+20,Pinggang Pinoy - GO Foods,"For energy-giving GO foods, choose whole grains like brown rice, corn, whole wheat bread, and oatmeal, which are linked to a lower risk of heart disease, diabetes, and other health problems.",http://www.fnri.dost.gov.ph
+21,Pinggang Pinoy - GLOW Foods,"For body-regulating GLOW foods, enjoy a wide variety of fruits and vegetables, which are packed with vitamins, minerals and fiber needed for the regulation of body processes.",http://www.fnri.dost.gov.ph
+22,Pinggang Pinoy - NCD Prevention,"To prevent chronic diseases, eat less salty, fried, fatty, and sugar-rich foods. Limit intake of sugar-sweetened beverages to reduce the risk of obesity.",http://www.fnri.dost.gov.ph
+23,Diabetes - Definition,Type 2 diabetes mellitus is a condition that results from a progressive insulin secretory defect on the background of insulin resistance.,https://www.pcdef.org/philippine-clinical-practice-guidelines-for-diabetes
+24,Diabetes - Exercise,"People with Type 2 diabetes should undertake moderate aerobic physical activity, such as brisk walking or continuous swimming, for at least 150 minutes per week.",https://www.pcdef.org/philippine-clinical-practice-guidelines-for-diabetes
+25,Diabetes - Exercise,"In addition to aerobic exercise, individuals with diabetes should engage in moderate to vigorous resistance training, such as weight lifting, at least 2 to 3 days a week.",https://www.pcdef.org/philippine-clinical-practice-guidelines-for-diabetes
+26,Diabetes - Weight Management,"To lower cardiovascular risk, overweight diabetic individuals should target an initial body weight loss of 5 to 10 percent and aim to maintain a normal Body Mass Index (BMI) of less than 23.",https://www.pcdef.org/philippine-clinical-practice-guidelines-for-diabetes
+27,Diabetes - Diet Macronutrients,"For optimal diabetes nutrition, the recommended daily macronutrient proportion is 50 to 55 percent carbohydrates, 15 to 20 percent protein, and no more than 30 percent fat, combined with a reduced salt intake.",https://www.pcdef.org/philippine-clinical-practice-guidelines-for-diabetes
+28,Diabetes - Diet Choices,"A healthy diabetic meal plan should be based heavily on vegetables, whole grains, and fresh fruits, with moderate servings of lean meat, fish, or eggs.",https://www.pcdef.org/philippine-clinical-practice-guidelines-for-diabetes
+29,Diabetes - Diet Restrictions,"Individuals managing diabetes must minimize their intake of fats, sugars, salt, and alcohol, strictly avoiding processed meats, fried foods, pastries, and soft drinks.",https://www.pcdef.org/philippine-clinical-practice-guidelines-for-diabetes
+30,Diabetes - Lifestyle Habits,"Individuals with diabetes are strongly advised not to smoke, as smoking cessation is a critical step in preventing long-term diabetic complications.",https://www.pcdef.org/philippine-clinical-practice-guidelines-for-diabetes
+31,General - Exercise Safety,"Before engaging in rigorous physical activity, ensure safety by getting clearance from a physician, drinking 250 ml of fluid every 15 to 20 minutes to stay hydrated, and stopping immediately if dizziness, nausea, or chest pains occur.",https://up.edu.ph/health-wellness-and-heritage-did-you-know/
+32,Children (5-12) - Exercise,"Children aged 5 to 12 years old should get at least 60 minutes of daily physical activity, which can include active travel, household chores, programmed sports, and spontaneous unstructured play.",https://up.edu.ph/health-wellness-and-heritage-did-you-know/
+33,Adolescents (13-20) - Exercise,"Adolescents and young adults aged 13 to 20 should get at least 60 minutes of daily physical activity, including at least 20 minutes of sustained moderate to vigorous activities (like brisk walking or jogging) and muscle strengthening 2 to 3 times a week.",https://up.edu.ph/health-wellness-and-heritage-did-you-know/
+34,Adults (21-45) - Exercise,"Adults aged 21 to 45 should get 30 to 60 minutes of daily physical activity, such as 30 minutes of moderate aerobic activity, muscle-strengthening exercises at least twice a week, and 2 minutes of physical activity for every hour of workplace sitting.",https://up.edu.ph/health-wellness-and-heritage-did-you-know/
+35,Older Adults (46-59) - Exercise,"Older adults aged 46 to 59 should aim for at least 30 minutes of daily physical activity, incorporating moderate aerobic exercises, muscle strengthening (8 to 12 repetitions), and balance and coordination activities like yoga or tai chi 2 to 4 days per week.",https://up.edu.ph/health-wellness-and-heritage-did-you-know/
+36,Seniors (60-69) - Exercise,"Senior citizens aged 60 to 69 should get at least 30 minutes of daily physical activity, emphasizing load-bearing activities to maintain bone density and dynamic movements that challenge postural stability and balance.",https://up.edu.ph/health-wellness-and-heritage-did-you-know/
+37,Seniors (70-79) - Exercise,"Senior citizens aged 70 to 79 are recommended to do 30 minutes of daily light physical activities (standing, seated, or assisted), mild calisthenics or elastic band training, and supported balance activities.",https://up.edu.ph/health-wellness-and-heritage-did-you-know/
+38,Seniors (80+) - Exercise,"Senior citizens aged 80 and above should engage in at least 20 minutes of continuous or accumulated light physical activities daily, mild strength training twice a week, and supported balance and coordination activities at least 3 days a week.",https://up.edu.ph/health-wellness-and-heritage-did-you-know/
+39,WHO Children (5-17) - Exercise,"The World Health Organization recommends that children and adolescents aged 5 to 17 years do at least 60 minutes of moderate to vigorous-intensity physical activity daily, including muscle and bone-strengthening activities at least 3 times per week.",https://www.who.int/initiatives/behealthy/physical-activity
+40,WHO Adults (18-64) - Exercise,"For adults aged 18 to 64 years, the World Health Organization recommends at least 150 minutes of moderate-intensity, or 75 minutes of vigorous-intensity physical activity per week, along with muscle-strengthening activities on 2 or more days a week.",https://www.who.int/initiatives/behealthy/physical-activity
+41,WHO Seniors (65+) - Exercise,"The World Health Organization recommends adults aged 65 years and older get at least 150 minutes of moderate-intensity physical activity per week, muscle-strengthening activities 2 or more days a week, and balance-enhancing activities 3 or more days a week to prevent falls.",https://www.who.int/initiatives/behealthy/physical-activity
+42,WHO Adults - Extra Health Benefits,"For additional health benefits and disease prevention, the World Health Organization suggests that adults aged 18 and older can increase their moderate-intensity physical activity to 300 minutes per week.",https://www.who.int/initiatives/behealthy/physical-activity
+43,AHA Cardio - Hypertension,"To lower blood pressure, the American Heart Association recommends at least 150 minutes per week of moderate-intensity aerobic activity, such as brisk walking for 30 minutes a day, 5 days a week.",https://www.heart.org
+44,AHA Cardio - Short Sessions,"If a continuous 30-minute workout is difficult, the American Heart Association notes that taking short, 10-minute bursts of brisk walking three times a day can be just as effective for lowering blood pressure.",https://www.heart.org
+45,ACSM Cardio - Beginners,"For beginners, the American College of Sports Medicine recommends starting gradually with rhythmic, aerobic exercises involving major muscle groups, aiming for 150 minutes of moderate or 75 minutes of vigorous activity per week.",https://www.acsm.org
+46,WHO Cardio - Active Commuting,"The World Health Organization states that active commuting, such as walking for 30 minutes or cycling for 20 minutes on most days, is linked to a 10% lower risk of cardiovascular disease and a 30% lower risk of type 2 diabetes.",https://www.who.int
+47,Mayo Clinic Cardio - Moderate Intensity,"Moderate aerobic activity raises your heart rate so you break a sweat and can talk but not sing. Examples include brisk walking, water aerobics, and bicycling slower than 10 mph.",https://www.mayoclinic.org
+48,Mayo Clinic Cardio - Vigorous Intensity,"Vigorous aerobic activity causes rapid breathing where you cannot say more than a few words without pausing. Examples include running, jogging, swimming laps, hiking uphill, and fast bicycling.",https://www.mayoclinic.org
+49,Cardio - Substitution Rule,"According to cardiovascular health guidelines, 1 minute of vigorous-intensity activity generally provides similar health benefits to 2 minutes of moderate-intensity activity.",https://www.heart.org
+50,PHA Cardio - Brisk Walking,"To reduce cardiovascular risk, the Philippine Heart Association recommends at least 150 minutes of moderate-intensity aerobic activity per week, aiming for a 30-minute brisk walk daily and a goal of 10,000 steps per day.",https://www.philheart.org/
+51,PHA Cardio - Walking Technique,"For maximum cardiovascular benefits, the Philippine Heart Association advises practicing proper brisk walking technique by maintaining a straight back, slightly engaging the core, and using purposeful arm swinging.",https://www.philheart.org/
+52,DOH Go4Health - Aerobics,"The DOH Pilipinas Go4Health program recommends adults prevent non-communicable diseases by getting 150 to 300 minutes of moderate aerobic physical activity per week, such as brisk walking, dancing, cycling, or playing basketball.",https://doh.gov.ph/
+53,PCEDM Cardio - Diabetes,"To improve glycemic control and manage diabetes, the Philippine College of Endocrinology, Diabetes and Metabolism recommends 150 minutes of moderate aerobic exercise per week, ensuring there are no more than two consecutive inactive days.",https://pcedm.ph/
+54,PHA - 52100 Formula,"For cardiovascular disease prevention, the Philippine Heart Association recommends the ""52100"" formula: 5 servings of fruits and vegetables, less than 2 hours of screen time, 1 hour of physical activity, 0 sugar-sweetened beverages, and 0 smoking.",https://www.philheart.org/
+55,FNRI - Daily Active Tasks,"Based on DOST-FNRI data, Filipinos can maintain cardiovascular health through active daily tasks of light to moderate intensity, such as walking, sweeping, household chores, and gardening.",https://www.fnri.dost.gov.ph/
+56,FNRI - Energy Expenditure,"According to DOST-FNRI studies, engaging in common physical activities like brisk walking, active commuting, and chores contributes to a healthy mean daily energy expenditure of around 2,127 kcal for females and 2,679 kcal for males.",https://www.fnri.dost.gov.ph/
+57,Pinggang Pinoy - Adults,"For adults, a healthy meal plate should consist of 1/2 plate of 'Glow' foods (fruits/vegetables), 1/4 'Go' (grains), and 1/4 'Grow' (proteins).",http://www.fnri.dost.gov.ph
+58,Diabetes - Screening,Individuals with a BMI $\ge$ 23 $kg/m^2$ or a waist circumference $\ge$ 80 cm (females) or 90 cm (males) should be screened for Type 2 Diabetes.,https://www.pcedf.org
+59,Dyslipidemia - Prevention,"To manage cholesterol, limit intake of saturated fats to < 7% of total calories and eliminate trans fats from partially hydrogenated oils.",https://www.philheart.org
+60,NCD - Alcohol Policy,Limit alcohol intake to no more than 2 drinks per day for men and 1 drink per day for women to reduce cardiovascular risk.,https://caro.doh.gov.ph
+61,Smoking Cessation,"The '5As' strategy (Ask, Advise, Assess, Assist, Arrange) is the standard clinical approach for tobacco cessation in the Philippines.",https://caro.doh.gov.ph
+62,Salt Consumption,Limit salt intake to < 5g (approx. 1 tsp) per day to prevent hypertension and stroke risk.,http://www.fnri.dost.gov.ph
+63,Diabetes - Foot Care,Daily foot inspection for redness or blisters is mandatory for diabetics to prevent ulcers.,https://www.pcedf.org
+64,Heart Failure - Sodium,Patients with heart failure should restrict sodium to < 2g/day to prevent fluid exacerbation.,https://www.philheart.org
+65,Stroke - FAST,"Use FAST (Face, Arm, Speech, Time) for rapid recognition and emergency response to stroke.",https://caro.doh.gov.ph
+66,Obesity - WHR,Waist-to-hip ratio $> 0.90$ (M) and $> 0.85$ (F) indicates high risk for metabolic complications.,http://www.fnri.dost.gov.ph
+67,Pinggang Pinoy - Elderly,Elderly (60y+) should focus on high-fiber foods and $\ge$ 8 glasses of water to manage digestion.,http://www.fnri.dost.gov.ph
+68,Hypertension - DASH,"The DASH diet (rich in K, Ca, Mg) is recommended for lowering systolic and diastolic BP.",https://www.philheart.org
+69,CVD - Aspirin,Low-dose aspirin (75-100mg) is for secondary prevention in established CVD cases only.,https://www.philheart.org
+70,Pregnancy - GDM,Screen for Gestational Diabetes at 24-28 weeks using a 75g Oral Glucose Tolerance Test (OGTT).,https://www.pcedf.org
+71,Hyperuricemia - Gout,"Limit high-purine foods (organ meats, legumes) and avoid sugary drinks to manage uric acid.",https://www.philheart.org
+72,Activity - Sedentary,Break sitting every 30 mins with light movement to reduce the risk of metabolic syndrome.,https://caro.doh.gov.ph
+73,Diabetes - Hypoglycemia,Treat blood sugar $< 70$ mg/dL with 15g fast carbs; recheck in 15 mins (15-15 Rule).,https://www.pcedf.org
+74,Hypertension - Coffee,Limit caffeine as it can cause temporary spikes in BP; avoid $> 2$ cups/day if BP is uncontrolled.,https://www.philheart.org
+75,Obesity - BMI Cutoffs,CutoffsOverweight for Filipinos is BMI 23-24.9; Obese is BMI $\ge$ 25.,http://www.fnri.dost.gov.ph
+76,CVD - Exercise Intensity,"Target 150 mins/week of moderate-intensity aerobic exercise (e.g., brisk walking).",https://caro.doh.gov.ph
+77,Smoking - Secondhand,Exposure to secondhand smoke increases the risk of heart disease and lung cancer by 20-30%.,https://caro.doh.gov.ph
+78,Cancer - Cervical,Sexually active women 25-55y should undergo Visual Inspection with Acetic Acid (VIA) or Pap smear.,https://caro.doh.gov.ph
+79,NCD - Stress Management,Chronic stress increases cortisol; practice mindfulness or deep breathing for 10-15 mins/day.,https://caro.doh.gov.ph
+80,Diabetes - Resistance,Include strength training (weights/bands) 2-3 times/week to improve insulin sensitivity.,https://www.pcedf.org
+81,Nutrition - Fatty Fish,"Consume fatty fish (tuna, mackerel) 2-3 times/week for essential Omega-3 fatty acids.",http://www.fnri.dost.gov.ph
+82,Hypertension - Home BP,Home BP monitoring (HBPM) is recommended to identify 'White Coat' or 'Masked' hypertension.,https://www.philheart.org
+83,Asthma - Triggers,"Identify and avoid environmental triggers like dust mites, pollen, and tobacco smoke.",https://caro.doh.gov.ph
+84,Pinggang Pinoy - Teens,Teens (13-18y) need increased protein (Grow) and calcium for peak bone mass development.,http://www.fnri.dost.gov.ph
+85,CVD - Trans Fats,Read labels for 'partially hydrogenated oils'; even 0g trans fat can have 0.5g/serving.,https://caro.doh.gov.ph
+86,Diabetes - Fiber,Aim for 25-30g of fiber daily to slow glucose absorption and improve satiety.,https://www.pcedf.org
+87,Hypertension - Weight,Losing 1kg of body weight can reduce systolic BP by approximately 1 mmHg.,https://www.philheart.org
+88,Stroke - Ischemic,80% of strokes are ischemic; early administration of thrombolytics (within 3-4.5h) is critical.,https://caro.doh.gov.ph
+89,Cancer - Colorectal,Adults 50y+ should undergo Fecal Occult Blood Test (FOBT) annually for screening.,https://caro.doh.gov.ph
+90,Activity - Vigorous,"75 mins of vigorous activity (e.g., running) is equivalent to 150 mins of moderate activity.",https://caro.doh.gov.ph
+91,Nutrition - Hydration,Drink water instead of sugar-sweetened beverages (SSBs) to reduce caloric intake.,http://www.fnri.dost.gov.ph
+92,Diabetes - Sick Day,Continue insulin even if ill; monitor blood sugar every 4 hours and check for ketones.,https://www.pcedf.org
+93,Hypertension - Potassium,"Increase potassium intake (bananas, potatoes) unless CKD is present to help lower BP.",https://www.philheart.org
+94,CVD - Sleep Apnea,Obstructive Sleep Apnea (OSA) is a significant risk factor for resistant hypertension.,https://www.philheart.org
+95,Obesity - Child Growth,Monitor children's growth via WFA (Weight-for-Age) charts to detect early-onset obesity.,http://www.fnri.dost.gov.ph
+96,NCD - Health Check,"Annual physical exams for adults 40y+ should include ECG, FBS, and lipid profile.",https://caro.doh.gov.ph
+97,Diabetes - Pre-diabetes,FPG of 100-125 mg/dL is considered pre-diabetes; lifestyle intervention can prevent T2DM.,https://www.pcedf.org
+98,Cancer - Risk Factors,Occupational exposure to asbestos or silica increases the risk of lung cancer and NCDs.,https://caro.doh.gov.ph
+99,Hypertension - Medication,ARBs and ACE inhibitors are preferred for hypertensive patients with diabetes or CKD.,https://www.philheart.org
+100,Nutrition - Glow Foods,"Eat a variety of colors (green, yellow, red) to ensure a full spectrum of vitamins/minerals.",http://www.fnri.dost.gov.ph
+101,CVD - Omega-3,Supplementation is not a substitute for dietary fish intake for heart health.,https://www.philheart.org
+102,Diabetes - Travel,Always carry extra supplies and a medical ID stating 'I have Diabetes' when traveling.,https://www.pcedf.org
+103,Smoking - Nicotine,Nicotine replacement therapy (NRT) can double the success rate of quitting smoking.,https://caro.doh.gov.ph
+104,COPD - Spirometry,Spirometry is the gold standard for diagnosing and monitoring COPD progression.,https://caro.doh.gov.ph
+105,Pinggang Pinoy - Kids,Kids (3-12y) need nutrient-dense snacks like fruits or boiled camote between meals.,http://www.fnri.dost.gov.ph
+106,NCD - Mental Health,Depression and anxiety are comorbid with chronic diseases and worsen treatment adherence.,https://caro.doh.gov.ph
+107,Hypertension - Salt Hiding,"Processed foods (canned goods, instant noodles) provide 70% of hidden dietary salt.",http://www.fnri.dost.gov.ph
+108,CVD - Alcohol Heart,Excessive alcohol can lead to cardiomyopathy and increased risk of atrial fibrillation.,https://www.philheart.org
+109,Diabetes - Protein,Grow foods like skinless chicken and legumes are preferred over red or processed meats.,https://www.pcedf.org
+110,Activity - Flexibilty,Stretching and balance exercises are essential for the elderly to prevent NCD-related falls.,https://caro.doh.gov.ph
+111,Obesity - BMI Children,"For children, obesity is defined as BMI-for-age > 2 standard deviations from the median.",http://www.fnri.dost.gov.ph
+112,Cancer - Skin,Avoid sun exposure from 10 AM to 4 PM and use broad-spectrum sunscreen in the Philippines.,https://caro.doh.gov.ph
+113,Diabetes - Monitoring,SMBG (Self-Monitoring of Blood Glucose) is vital for patients on insulin to avoid hypos.,https://www.pcedf.org
+114,Hypertension - Target,General target for most hypertensive patients is < 140/90 mmHg.,https://www.philheart.org
+115,Nutrition - Sugar,Added sugars should be < 10% of total energy intake to prevent obesity and NCDs.,http://www.fnri.dost.gov.ph
+116,CVD - Pulse Rate,Resting heart rate > 100 bpm (tachycardia) requires medical evaluation for heart health.,https://www.philheart.org
+117,Diabetes - Alcohol,Diabetics should never drink alcohol on an empty stomach due to delayed hypoglycemia risk.,https://www.pcedf.org
+118,Smoking - Policy,Smoke-free environments in public places are mandated by Executive Order No. 26.,https://caro.doh.gov.ph
+119,Cancer - Liver,Hepatitis B vaccination is a primary prevention strategy against liver cancer in the PH.,https://caro.doh.gov.ph
+120,Pinggang Pinoy - Lactating,Lactating mothers need additional 'Go' and 'Grow' foods to support milk production.,http://www.fnri.dost.gov.ph
+121,Activity - Step Count,"Aim for 7,500 to 10,000 steps per day for significant cardiovascular health benefits.",https://caro.doh.gov.ph
+122,NCD - Sleep Quality,Aim for 7-9 hours of sleep; poor sleep is linked to increased risk of obesity and T2DM.,https://caro.doh.gov.ph
+123,Hypertension - Urgency,SBP > 180 or DBP > 120 without organ damage is an urgency; seek medical consult.,https://www.philheart.org
+124,CVD - Statins,Moderate-to-high intensity statins are used for patients with high 10-year ASCVD risk.,https://www.philheart.org
+125,Diabetes - Snacks,"Healthy snacks include unsalted nuts, low-fat yogurt, or fresh local fruits (e.g., guava).",https://www.pcedf.org
+126,Nutrition - Go Foods,Limit white bread and pastries; substitute with whole-wheat bread or oatmeal.,http://www.fnri.dost.gov.ph
+127,Activity - Workplace,Use stairs instead of elevators and walk to colleagues instead of emailing to stay active.,https://caro.doh.gov.ph
+128,Obesity - Weight Loss,A safe weight loss target is 0.5kg to 1kg per week through diet and exercise.,http://www.fnri.dost.gov.ph
+129,Cancer - Risk Red,High fiber intake from vegetables and fruits reduces the risk of colon cancer.,https://caro.doh.gov.ph
+130,Hypertension - Salt,"Use herbs and spices (garlic, onion, ginger) instead of salt/soy sauce for flavor.",http://www.fnri.dost.gov.ph
+131,CVD - Family History,"First-degree relatives with premature CVD (< 55y M, < 65y F) increase individual risk.",https://www.philheart.org
+132,Diabetes - Ketones,Check urine ketones if blood sugar is consistently > 240 mg/dL during illness.,https://www.pcedf.org
+133,Smoking - Quit Date,Set a 'Quit Date' within 2 weeks and inform family/friends for social support.,https://caro.doh.gov.ph
+134,COPD - Oxygen,Long-term oxygen therapy improves survival in COPD patients with severe hypoxemia.,https://caro.doh.gov.ph
+135,Nutrition - Milk,Drink one glass of low-fat milk daily for calcium to prevent NCD-related osteoporosis.,http://www.fnri.dost.gov.ph
+136,Activity - Group,"Group exercise (e.g., Zumba, basketball) improves adherence and social well-being.",https://caro.doh.gov.ph
+137,Hypertension - BP Check,Avoid caffeine/smoking 30 mins before BP measurement; sit quietly for 5 mins.,https://www.philheart.org
+138,CVD - Omega-3 Source,Tilapia and Bangus are good local sources of protein but lower in Omega-3 than Tulingan.,http://www.fnri.dost.gov.ph
+139,Diabetes - Carbohydrate,Use the 'Plate Method' to control portion sizes without tedious calorie counting.,https://www.pcedf.org
+140,Cancer - Awareness,"Report persistent cough, voice changes, or unusual lumps to a doctor immediately.",https://caro.doh.gov.ph
+141,NCD - Health Literacy,"Understanding food labels (Serving Size, %RENI) is key to making healthy choices.",http://www.fnri.dost.gov.ph
+142,Obesity - BMI Monitoring,Check BMI monthly; any sudden increase is a signal to re-evaluate caloric intake.,http://www.fnri.dost.gov.ph
+143,Hypertension - Potassium,Avoid potassium supplements unless prescribed; focus on whole food sources.,https://www.philheart.org
+144,CVD - Secondary Prev,High-intensity statins (Atorvastatin 40-80mg) are standard post-myocardial infarction.,https://www.philheart.org
+145,Diabetes - Eye Care,Annual dilated eye exam is required to screen for diabetic retinopathy.,https://www.pcedf.org
+146,Smoking - Relapse,Most people take 5-7 attempts to quit; treat a lapse as a learning opportunity.,https://caro.doh.gov.ph
+147,Activity - Strength,"Muscle-strengthening should involve all major muscle groups: legs, hips, back, chest.",https://caro.doh.gov.ph
+148,Nutrition - Glow Foods,Steam or boil vegetables instead of frying to preserve vitamins and limit fat.,http://www.fnri.dost.gov.ph
+149,NCD - Risk Charts,Use WHO/ISH risk prediction charts to estimate 10-year risk of fatal CV events.,https://caro.doh.gov.ph
+150,Nutrition - Vitamin A,"Vitamin A-rich foods include yellow and orange fruits and vegetables like squash, carrots, and ripe papaya to support eye health.",http://www.fnri.dost.gov.ph
+151,Pinggang Pinoy - School Children,"For children aged 6-12, the Pinggang Pinoy suggests 1.5 to 2 cups of vegetables daily for fiber and micronutrients.",http://www.fnri.dost.gov.ph
+152,Nutrition - Iodine,Use iodized salt in cooking and at the table to prevent Iodine Deficiency Disorders (IDD) which can cause goiter.,http://www.fnri.dost.gov.ph
+153,Nutrition - Iron,"Iron-rich foods like liver, blood, and dark green leafy vegetables help prevent iron-deficiency anemia, common among pregnant women.",http://www.fnri.dost.gov.ph
+154,Nutrition - Calcium,Small fish with bones (like dilis) and dairy products are excellent sources of calcium for bone density.,http://www.fnri.dost.gov.ph
+155,Pinggang Pinoy - Energy Density,"Go foods like rice and corn should provide the energy needed for daily activities, but should be consumed in moderation.",http://www.fnri.dost.gov.ph
+156,Nutrition - Sugary Drinks,Replace sweetened beverages with water to reduce the risk of dental caries and excessive weight gain.,http://www.fnri.dost.gov.ph
+157,Nutrition - Food Safety,Proper handwashing before food preparation and eating is the first step in preventing foodborne illnesses.,https://caro.doh.gov.ph
+158,Nutrition - Fats,Limit the use of coconut oil and palm oil high in saturated fats; prefer oils like canola or olive oil when available.,http://www.fnri.dost.gov.ph
+159,Pinggang Pinoy - Water Intake,Adults should drink 8 or more glasses of water daily to stay hydrated and support metabolic functions.,http://www.fnri.dost.gov.ph
+160,Diabetes - HbA1c,The HbA1c test measures average blood sugar over the past 2-3 months; a target of <7% is common for many adults.,https://www.pcedf.org
+161,Diabetes - Insulin Injection,"Rotate insulin injection sites (abdomen, thighs, arms) to prevent lipohypertrophy, which can affect absorption.",https://www.pcedf.org
+162,Diabetes - Self-Monitoring,Keep a logbook of blood glucose readings to help your doctor adjust your medication and lifestyle plan effectively.,https://www.pcedf.org
+163,Diabetes - Footwear,People with diabetes should wear well-fitting shoes and avoid walking barefoot even indoors to prevent foot injuries.,https://www.pcedf.org
+164,Diabetes - Hypoglycemia Treatment,Treat low blood sugar (hypoglycemia) using the 15-15 rule: consume 15g of fast-acting carbs and recheck in 15 minutes.,https://www.pcedf.org
+165,Diabetes - Kidney Health,An annual microalbuminuria test is essential for early detection of diabetic kidney disease (nephropathy).,https://www.pcedf.org
+166,Diabetes - Gum Disease,People with diabetes are at higher risk for periodontal (gum) disease; regular dental checkups are necessary.,https://www.pcedf.org
+167,Diabetes - Travel Prep,"When traveling, always carry double the amount of diabetes supplies needed and keep insulin in a cool bag.",https://www.pcedf.org
+168,Diabetes - Metformin,Metformin is often the first-line medication for Type 2 Diabetes to help the body use insulin better.,https://www.pcedf.org
+169,Diabetes - Stress Response,Stress hormones can cause blood sugar levels to rise; stress management is a core part of diabetes care.,https://www.pcedf.org
+170,Hypertension - DASH Fruits,The DASH diet encourages 4-5 servings of fruit daily to provide potassium and fiber for blood pressure control.,https://www.philheart.org
+171,Hypertension - DASH Veggies,Consuming 4-5 servings of vegetables daily is a key component of the DASH diet to lower high blood pressure.,https://www.philheart.org
+172,CVD - Heart Attack Signs,"Common symptoms of a heart attack include chest pain, shortness of breath, and pain in the neck, jaw, or back.",https://www.philheart.org
+173,CVD - Atrial Fibrillation,Atrial fibrillation is an irregular heart rhythm that significantly increases the risk of stroke and heart failure.,https://www.philheart.org
+174,CVD - Peripheral Artery Disease,Pain in the legs while walking that stops with rest (claudication) can be a sign of narrowed arteries (PAD).,https://www.philheart.org
+175,Hypertension - Hidden Sodium,"Processed meats, canned goods, and instant noodles are major sources of hidden sodium in the Filipino diet.",http://www.fnri.dost.gov.ph
+176,Hypertension - Potassium Source,"Bananas, camote, and spinach are natural sources of potassium that help the body excrete excess sodium.",https://www.philheart.org
+177,CVD - Blood Pressure Targets,"For most adults, maintaining a blood pressure below 130/80 mmHg is recommended to reduce cardiovascular risk.",https://www.philheart.org
+178,Hypertension - Alcohol Impact,Reducing alcohol consumption can lower systolic blood pressure by approximately 2 to 4 mmHg.,https://www.philheart.org
+179,CVD - Cardiac Rehab,"Post-heart surgery, a structured cardiac rehabilitation program improves recovery and reduces future event risks.",https://www.philheart.org
+180,Cancer - Breast Self-Exam,Perform monthly breast self-examinations to notice changes early; any unusual lumps should be reported to a doctor.,https://caro.doh.gov.ph
+181,Cancer - Lung Screening,"Long-term heavy smokers may benefit from annual low-dose CT scans to detect lung cancer at an early, treatable stage.",https://caro.doh.gov.ph
+182,Cancer - Colorectal Screening,"Adults over 45 should undergo regular screening for colorectal cancer, such as a fecal immunochemical test (FIT).",https://caro.doh.gov.ph
+183,Cancer - Liver Cancer,Chronic Hepatitis B infection is a leading cause of liver cancer in the Philippines; vaccination is key to prevention.,https://caro.doh.gov.ph
+184,Cancer - Cervical Screening,The Pap smear and HPV DNA test are vital tools for the early detection and prevention of cervical cancer.,https://caro.doh.gov.ph
+185,Cancer - Prostate Check,Men over 50 should discuss the risks and benefits of Prostate-Specific Antigen (PSA) screening with their physician.,https://caro.doh.gov.ph
+186,Cancer - UV Protection,Limit sun exposure between 10 AM and 4 PM and use sunscreen to reduce the risk of skin cancer.,https://caro.doh.gov.ph
+187,Cancer - Childhood Cancers,Leukemia is the most common cancer among children; early diagnosis through blood tests is crucial for survival.,https://caro.doh.gov.ph
+188,Cancer - Processed Meats,High consumption of processed meats like longganisa and tocino is linked to an increased risk of colorectal cancer.,http://www.fnri.dost.gov.ph
+189,Cancer - Physical Activity,"Regular exercise reduces the risk of several cancers, including breast, colon, and endometrial cancer.",https://caro.doh.gov.ph
+190,Activity - Cycling,Cycling is a low-impact aerobic exercise that improves cardiovascular health and leg strength without stressing joints.,https://caro.doh.gov.ph
+191,Activity - Swimming,Swimming provides a full-body workout and is an excellent option for individuals with arthritis or joint pain.,https://caro.doh.gov.ph
+192,Activity - Stair Climbing,Using the stairs instead of the elevator is a simple way to incorporate physical activity into a busy workday.,https://caro.doh.gov.ph
+193,Activity - Dancing,"Aerobic dancing or Zumba improves heart health, coordination, and mood through rhythmic movement.",https://caro.doh.gov.ph
+194,Activity - Balance Exercises,"Seniors should practice balance exercises, such as standing on one leg, to prevent falls and fractures.",https://caro.doh.gov.ph
+195,Activity - Warm-up,A 5-10 minute warm-up before vigorous exercise prepares the muscles and heart for increased demand.,https://caro.doh.gov.ph
+196,Activity - Cool-down,Gradually slowing down at the end of a workout helps the heart rate return to normal and prevents dizziness.,https://caro.doh.gov.ph
+197,Activity - Hydration,"Drink water before, during, and after exercise to prevent dehydration, especially in the tropical Philippine climate.",https://caro.doh.gov.ph
+198,Activity - Weekend Warriors,"While daily activity is best, condensing 150 minutes of exercise into weekends still provides significant health benefits.",https://www.who.int
+199,Activity - Resistance Bands,Using resistance bands is an affordable and portable way to perform strength training exercises at home.,https://caro.doh.gov.ph
+200,COPD - Smoking Link,Cigarette smoking is the leading cause of COPD; quitting is the only way to slow the progression of the disease.,https://caro.doh.gov.ph
+201,COPD - Biomass Fuel,Exposure to indoor smoke from cooking with wood or charcoal (biomass) is a major risk factor for COPD in rural areas.,https://caro.doh.gov.ph
+202,Asthma - Inhaler Use,Using a spacer with a metered-dose inhaler ensures more medication reaches the lungs and less stays in the mouth.,https://caro.doh.gov.ph
+203,Asthma - Peak Flow Meter,A peak flow meter helps patients monitor their airway function and predict asthma attacks before symptoms start.,https://caro.doh.gov.ph
+204,Asthma - Exercise Induced,Pre-medicating with a bronchodilator before exercise can help prevent exercise-induced bronchospasm in asthmatics.,https://caro.doh.gov.ph
+205,COPD - Pulmonary Rehab,Pulmonary rehabilitation programs combine exercise and education to improve the quality of life for COPD patients.,https://caro.doh.gov.ph
+206,COPD - Pneumonia Vaccine,Patients with COPD should receive the pneumococcal vaccine to reduce the risk of severe respiratory infections.,https://caro.doh.gov.ph
+207,Asthma - Allergy Control,"Reducing exposure to dust mites, pet dander, and cockroaches can significantly decrease asthma flare-ups.",https://caro.doh.gov.ph
+208,Respiratory - Air Quality,Checking the air quality index (AQI) and avoiding outdoor activity on high-pollution days protects lung health.,https://caro.doh.gov.ph
+209,COPD - Pursed Lip Breathing,Pursed-lip breathing helps COPD patients slow their breathing down and keep their airways open longer.,https://caro.doh.gov.ph
+210,Mental Health - Sleep,Getting 7-9 hours of quality sleep is essential for emotional regulation and cognitive function.,https://caro.doh.gov.ph
+211,Mental Health - Social Connection,Maintaining strong social ties with family and friends acts as a buffer against stress and depression.,https://caro.doh.gov.ph
+212,Mental Health - Mindfullness,Practicing mindfulness or meditation can help reduce symptoms of anxiety and improve focus.,https://caro.doh.gov.ph
+213,Mental Health - Help Seeking,"Reaching out to a mental health professional is a sign of strength, not weakness, when dealing with persistent sadness.",https://caro.doh.gov.ph
+214,Stress - Physical Signs,"Chronic stress can manifest physically as headaches, muscle tension, and digestive problems.",https://caro.doh.gov.ph
+215,Mental Health - Stigma,Reducing the stigma around mental illness encourages more people to seek life-saving treatment and support.,https://caro.doh.gov.ph
+216,Mental Health - Physical Activity,"Regular exercise releases endorphins, which are natural mood lifters that can help manage mild depression.",https://caro.doh.gov.ph
+217,Stress - Deep Breathing,"Taking slow, deep breaths activates the body's relaxation response and lowers the heart rate during stress.",https://caro.doh.gov.ph
+218,Mental Health - Resilience,Building resilience involves developing healthy coping mechanisms to bounce back from life's challenges.,https://caro.doh.gov.ph
+219,Mental Health - Work-Life Balance,Setting boundaries between work and personal life is crucial for preventing burnout and maintaining mental well-being.,https://caro.doh.gov.ph
+220,Obesity - Portion Distortion,Be mindful of portion sizes; larger plates and servings can lead to unconscious overeating.,http://www.fnri.dost.gov.ph
+221,Obesity - Mindful Eating,Eating slowly and without distractions (like TV) helps you recognize fullness signals and avoid overeating.,http://www.fnri.dost.gov.ph
+222,Obesity - Waist Circumference,A waist circumference over 90cm for men and 80cm for women indicates increased risk for NCDs in Filipinos.,http://www.fnri.dost.gov.ph
+223,Obesity - Emotional Eating,"Identifying triggers for emotional eating, such as boredom or sadness, is a key step in weight management.",https://caro.doh.gov.ph
+224,Obesity - Sleep Connection,"Lack of sleep can disrupt hunger hormones, leading to increased appetite and weight gain.",https://caro.doh.gov.ph
+225,Obesity - Meal Planning,Planning meals ahead of time reduces the reliance on high-calorie fast food and processed snacks.,http://www.fnri.dost.gov.ph
+226,Obesity - Fiber Intake,"High-fiber foods like vegetables and whole grains help you feel full longer, aiding in weight loss.",http://www.fnri.dost.gov.ph
+227,Obesity - Protein Benefits,Including protein in every meal can increase satiety and help maintain muscle mass during weight loss.,http://www.fnri.dost.gov.ph
+228,Obesity - Long-term Goals,Aim for a gradual weight loss of 0.5 to 1 kg per week for a more sustainable and healthy result.,https://caro.doh.gov.ph
+229,Obesity - Genetic Factors,"While genetics play a role in obesity, lifestyle choices remain the most modifiable factors for weight control.",https://caro.doh.gov.ph
+230,Smoking - E-cigarettes,E-cigarettes and vapes are not harmless; they contain nicotine and other chemicals that can damage the lungs.,https://caro.doh.gov.ph
+231,Smoking - Heart Health,Quitting smoking reduces the risk of coronary heart disease by half within just one year of cessation.,https://www.philheart.org
+232,Smoking - Skin Aging,"Smoking restricts blood flow to the skin, leading to premature wrinkles and a dull complexion.",https://caro.doh.gov.ph
+233,Smoking - Thirdhand Smoke,Residual nicotine and chemicals on surfaces (thirdhand smoke) can be harmful to infants and children.,https://caro.doh.gov.ph
+234,Smoking - Withdrawal,Common withdrawal symptoms like irritability and cravings are temporary and usually peak within 3 days.,https://caro.doh.gov.ph
+235,Smoking - Savings,Quitting smoking leads to significant financial savings that can be redirected toward healthier food and lifestyle.,https://caro.doh.gov.ph
+236,Smoking - Support Groups,Joining a smoking cessation group increases the chances of quitting successfully compared to going it alone.,https://caro.doh.gov.ph
+237,Smoking - Smell and Taste,"Within 48 hours of quitting, your sense of smell and taste start to return to normal.",https://caro.doh.gov.ph
+238,Smoking - Bone Health,"Smoking increases the risk of osteoporosis and bone fractures, particularly in post-menopausal women.",https://caro.doh.gov.ph
+239,Smoking - Lung Capacity,"Within 2 to 12 weeks of quitting smoking, your circulation improves and your lung function increases.",https://caro.doh.gov.ph
+240,NCD - Annual Checkup,"A regular annual checkup allows for early screening of blood pressure, blood sugar, and cholesterol levels.",https://caro.doh.gov.ph
+241,NCD - Salt Reduction,Reducing salt intake to less than 5g per day (about 1 teaspoon) can prevent millions of deaths annually.,https://www.who.int
+242,NCD - Universal Health Care,The Philippines' UHC Act aims to ensure all Filipinos have access to essential health services for NCDs.,https://caro.doh.gov.ph
+243,NCD - Alcohol Policy,Raising taxes on alcohol is a cost-effective policy to reduce harmful use and related NCDs.,https://www.who.int
+244,NCD - Early Detection,Early detection of NCDs through basic screening at health centers significantly reduces long-term treatment costs.,https://caro.doh.gov.ph
+245,NCD - Community Support,Barangay health workers play a vital role in monitoring NCD patients and providing education in the community.,https://caro.doh.gov.ph
+246,NCD - Health Literacy,"Improving health literacy empowers individuals to make better choices about diet, exercise, and medical care.",https://caro.doh.gov.ph
+247,NCD - Family History,Knowing your family's medical history helps identify your personal risk for diseases like diabetes and heart disease.,https://caro.doh.gov.ph
+248,NCD - Salt Labeling,Check for 'low sodium' or 'no added salt' labels on food products to help manage your daily salt intake.,http://www.fnri.dost.gov.ph
+249,NCD - Medication Adherence,Taking prescribed medications exactly as directed is essential for managing chronic conditions like hypertension.,https://caro.doh.gov.ph
+250,Cardio - Zone 2 Training,Zone 2 training involves exercising at 60-70% of max heart rate to build aerobic base and mitochondrial efficiency. ,https://caro.doh.gov.ph
+251,Cardio - HIIT Benefits,High-Intensity Interval Training (HIIT) can improve VO2 max and insulin sensitivity faster than steady-state cardio. ,https://www.who.int
+252,Cardio - Talk Test,"The talk test is a simple way to measure intensity: at moderate intensity, you can talk but not sing. ",https://caro.doh.gov.ph
+253,Cardio - RPE Scale,The Rating of Perceived Exertion (RPE) scale (1-10) helps athletes gauge intensity without a heart rate monitor. ,https://www.who.int
+254,Cardio - LISS,"Low-Intensity Steady State (LISS) cardio, like walking, is excellent for recovery and sustainable fat oxidation. ",https://caro.doh.gov.ph
+255,Cardio - Running Economy,Improving running form and strengthening core muscles can enhance running economy and reduce injury risk. ,https://www.who.int
+256,Cardio - Cycling Power,Cycling builds lower body strength and cardiovascular endurance with minimal impact on the knee joints. ,https://caro.doh.gov.ph
+257,Cardio - Swimming Technique,Swimming is a total-body cardio workout that improves lung capacity and is ideal for those with joint issues.,https://www.who.int
+258,Cardio - Jump Rope,Jumping rope is a high-calorie burning cardio activity that also improves coordination and bone density. ,https://caro.doh.gov.ph
+259,Cardio - Rowing,"Rowing engages 85% of the body's muscles, providing a powerful aerobic and anaerobic challenge. ",https://www.who.int
+260,Cardio - VO2 Max,VO2 max is a measure of the maximum amount of oxygen your body can utilize during intense exercise. ,https://caro.doh.gov.ph
+261,Cardio - Heart Rate Recovery,How quickly your heart rate drops after exercise is a key indicator of cardiovascular fitness. ,https://www.who.int
+262,Cardio - Overtraining,"Persistent fatigue, decreased performance, and elevated resting heart rate are signs of cardio overtraining. ",https://caro.doh.gov.ph
+263,Cardio - Hydration,"During long cardio sessions, drink 400-800ml of water per hour, adjusting for sweat rate and climate. ",https://www.who.int
+264,Cardio - Electrolytes,"For cardio exceeding 90 minutes, replenishing sodium, potassium, and magnesium is vital to prevent cramping. ",https://caro.doh.gov.ph
+265,Cardio - Warm-up,"Dynamic stretching (leg swings, arm circles) is preferred over static stretching before a cardio session. ",https://www.who.int
+266,Cardio - Cool-down,A proper cool-down helps prevent blood pooling in the legs and promotes faster recovery. ,https://caro.doh.gov.ph
+267,Cardio - Cross-training,"Mixing different types of cardio (e.g., swimming and running) prevents boredom and overuse injuries. ",https://www.who.int
+268,Cardio - Progression,The 10% rule suggests increasing weekly mileage or duration by no more than 10% to avoid injury. ,https://caro.doh.gov.ph
+269,Cardio - Elliptical,The elliptical trainer provides a weight-bearing cardio workout that is easier on the hips and ankles than running. ,https://www.who.int
+270,Cardio - Zone 2 Training,Zone 2 training involves exercising at 60-70% of max heart rate to build aerobic base and mitochondrial efficiency.,https://caro.doh.gov.ph
+271,Cardio - HIIT Benefits,High-Intensity Interval Training (HIIT) can improve VO2 max and insulin sensitivity faster than steady-state cardio.,https://www.who.int
+272,Cardio - Talk Test,"The talk test is a simple way to measure intensity: at moderate intensity, you can talk but not sing.",https://caro.doh.gov.ph
+273,Cardio - RPE Scale,The Rating of Perceived Exertion (RPE) scale (1-10) helps athletes gauge intensity without a heart rate monitor.,https://www.who.int
+274,Cardio - LISS,"Low-Intensity Steady State (LISS) cardio, like walking, is excellent for recovery and sustainable fat oxidation.",https://caro.doh.gov.ph
+275,Cardio - Running Economy,Improving running form and strengthening core muscles can enhance running economy and reduce injury risk.,https://www.who.int
+276,Cardio - Cycling Power,Cycling builds lower body strength and cardiovascular endurance with minimal impact on the knee joints.,https://caro.doh.gov.ph
+277,Cardio - Swimming Technique,Swimming is a total-body cardio workout that improves lung capacity and is ideal for those with joint issues.,https://www.who.int
+278,Cardio - Jump Rope,Jumping rope is a high-calorie burning cardio activity that also improves coordination and bone density.,https://caro.doh.gov.ph
+279,Cardio - Rowing,"Rowing engages 85% of the body's muscles, providing a powerful aerobic and anaerobic challenge.",https://www.who.int
+280,Cardio - VO2 Max,VO2 max is a measure of the maximum amount of oxygen your body can utilize during intense exercise.,https://caro.doh.gov.ph
+281,Cardio - Heart Rate Recovery,How quickly your heart rate drops after exercise is a key indicator of cardiovascular fitness.,https://www.who.int
+282,Cardio - Overtraining,"Persistent fatigue, decreased performance, and elevated resting heart rate are signs of cardio overtraining.",https://caro.doh.gov.ph
+283,Cardio - Hydration,"During long cardio sessions, drink 400-800ml of water per hour, adjusting for sweat rate and climate.",https://www.who.int
+284,Cardio - Electrolytes,"For cardio exceeding 90 minutes, replenishing sodium, potassium, and magnesium is vital to prevent cramping.",https://caro.doh.gov.ph
+285,Cardio - Warm-up,"Dynamic stretching (leg swings, arm circles) is preferred over static stretching before a cardio session.",https://www.who.int
+286,Cardio - Cool-down,A proper cool-down helps prevent blood pooling in the legs and promotes faster recovery.,https://caro.doh.gov.ph
+287,Cardio - Cross-training,"Mixing different types of cardio (e.g., swimming and running) prevents boredom and overuse injuries.",https://www.who.int
+288,Cardio - Progression,The 10% rule suggests increasing weekly mileage or duration by no more than 10% to avoid injury.,https://caro.doh.gov.ph
+289,Cardio - Elliptical,The elliptical trainer provides a weight-bearing cardio workout that is easier on the hips and ankles than running.,https://www.who.int
+290,Cardio - Zone 2 Training,Zone 2 training involves exercising at 60-70% of max heart rate to build aerobic base and mitochondrial efficiency.,https://caro.doh.gov.ph
+291,Cardio - HIIT Benefits,High-Intensity Interval Training (HIIT) can improve VO2 max and insulin sensitivity faster than steady-state cardio.,https://www.who.int
+292,Cardio - Talk Test,"The talk test is a simple way to measure intensity: at moderate intensity, you can talk but not sing.",https://caro.doh.gov.ph
+293,Cardio - RPE Scale,The Rating of Perceived Exertion (RPE) scale (1-10) helps athletes gauge intensity without a heart rate monitor.,https://www.who.int
+294,Cardio - LISS,"Low-Intensity Steady State (LISS) cardio, like walking, is excellent for recovery and sustainable fat oxidation.",https://caro.doh.gov.ph
+295,Cardio - Running Economy,Improving running form and strengthening core muscles can enhance running economy and reduce injury risk.,https://www.who.int
+296,Cardio - Cycling Power,Cycling builds lower body strength and cardiovascular endurance with minimal impact on the knee joints.,https://caro.doh.gov.ph
+297,Cardio - Swimming Technique,Swimming is a total-body cardio workout that improves lung capacity and is ideal for those with joint issues.,https://www.who.int
+298,Cardio - Jump Rope,Jumping rope is a high-calorie burning cardio activity that also improves coordination and bone density.,https://caro.doh.gov.ph
+299,Cardio - Rowing,"Rowing engages 85% of the body's muscles, providing a powerful aerobic and anaerobic challenge.",https://www.who.int
+300,Cardio - VO2 Max,VO2 max is a measure of the maximum amount of oxygen your body can utilize during intense exercise.,https://caro.doh.gov.ph
+301,Cardio - Heart Rate Recovery,How quickly your heart rate drops after exercise is a key indicator of cardiovascular fitness.,https://www.who.int
+302,Cardio - Overtraining,"Persistent fatigue, decreased performance, and elevated resting heart rate are signs of cardio overtraining.",https://caro.doh.gov.ph
+303,Cardio - Hydration,"During long cardio sessions, drink 400-800ml of water per hour, adjusting for sweat rate and climate.",https://www.who.int
+304,Cardio - Electrolytes,"For cardio exceeding 90 minutes, replenishing sodium, potassium, and magnesium is vital to prevent cramping.",https://caro.doh.gov.ph
+305,Cardio - Warm-up,"Dynamic stretching (leg swings, arm circles) is preferred over static stretching before a cardio session.",https://www.who.int
+306,Cardio - Cool-down,A proper cool-down helps prevent blood pooling in the legs and promotes faster recovery.,https://caro.doh.gov.ph
+307,Cardio - Cross-training,"Mixing different types of cardio (e.g., swimming and running) prevents boredom and overuse injuries.",https://www.who.int
+308,Cardio - Progression,The 10% rule suggests increasing weekly mileage or duration by no more than 10% to avoid injury.,https://caro.doh.gov.ph
+309,Cardio - Elliptical,The elliptical trainer provides a weight-bearing cardio workout that is easier on the hips and ankles than running.,https://www.who.int
+310,Cardio - Zone 2 Training,Zone 2 training involves exercising at 60-70% of max heart rate to build aerobic base and mitochondrial efficiency.,https://caro.doh.gov.ph
+311,Cardio - HIIT Benefits,High-Intensity Interval Training (HIIT) can improve VO2 max and insulin sensitivity faster than steady-state cardio.,https://www.who.int
+312,Cardio - Talk Test,"The talk test is a simple way to measure intensity: at moderate intensity, you can talk but not sing.",https://caro.doh.gov.ph
+313,Cardio - RPE Scale,The Rating of Perceived Exertion (RPE) scale (1-10) helps athletes gauge intensity without a heart rate monitor.,https://www.who.int
+314,Cardio - LISS,"Low-Intensity Steady State (LISS) cardio, like walking, is excellent for recovery and sustainable fat oxidation.",https://caro.doh.gov.ph
+315,Cardio - Running Economy,Improving running form and strengthening core muscles can enhance running economy and reduce injury risk.,https://www.who.int
+316,Cardio - Cycling Power,Cycling builds lower body strength and cardiovascular endurance with minimal impact on the knee joints.,https://caro.doh.gov.ph
+317,Cardio - Swimming Technique,Swimming is a total-body cardio workout that improves lung capacity and is ideal for those with joint issues.,https://www.who.int
+318,Cardio - Jump Rope,Jumping rope is a high-calorie burning cardio activity that also improves coordination and bone density.,https://caro.doh.gov.ph
+319,Cardio - Rowing,"Rowing engages 85% of the body's muscles, providing a powerful aerobic and anaerobic challenge.",https://www.who.int
+320,Cardio - VO2 Max,VO2 max is a measure of the maximum amount of oxygen your body can utilize during intense exercise.,https://caro.doh.gov.ph
+321,Cardio - Heart Rate Recovery,How quickly your heart rate drops after exercise is a key indicator of cardiovascular fitness.,https://www.who.int
+322,Cardio - Overtraining,"Persistent fatigue, decreased performance, and elevated resting heart rate are signs of cardio overtraining.",https://caro.doh.gov.ph
+323,Cardio - Hydration,"During long cardio sessions, drink 400-800ml of water per hour, adjusting for sweat rate and climate.",https://www.who.int
+324,Cardio - Electrolytes,"For cardio exceeding 90 minutes, replenishing sodium, potassium, and magnesium is vital to prevent cramping.",https://caro.doh.gov.ph
+325,Cardio - Warm-up,"Dynamic stretching (leg swings, arm circles) is preferred over static stretching before a cardio session.",https://www.who.int
+326,Cardio - Cool-down,A proper cool-down helps prevent blood pooling in the legs and promotes faster recovery.,https://caro.doh.gov.ph
+327,Cardio - Cross-training,"Mixing different types of cardio (e.g., swimming and running) prevents boredom and overuse injuries.",https://www.who.int
+328,Cardio - Progression,The 10% rule suggests increasing weekly mileage or duration by no more than 10% to avoid injury.,https://caro.doh.gov.ph
+329,Cardio - Elliptical,The elliptical trainer provides a weight-bearing cardio workout that is easier on the hips and ankles than running.,https://www.who.int
+330,Cardio - Zone 2 Training,Zone 2 training involves exercising at 60-70% of max heart rate to build aerobic base and mitochondrial efficiency.,https://caro.doh.gov.ph
+331,Cardio - HIIT Benefits,High-Intensity Interval Training (HIIT) can improve VO2 max and insulin sensitivity faster than steady-state cardio.,https://www.who.int
+332,Cardio - Talk Test,"The talk test is a simple way to measure intensity: at moderate intensity, you can talk but not sing.",https://caro.doh.gov.ph
+333,Cardio - RPE Scale,The Rating of Perceived Exertion (RPE) scale (1-10) helps athletes gauge intensity without a heart rate monitor.,https://www.who.int
+334,Cardio - LISS,"Low-Intensity Steady State (LISS) cardio, like walking, is excellent for recovery and sustainable fat oxidation.",https://caro.doh.gov.ph
+335,Cardio - Running Economy,Improving running form and strengthening core muscles can enhance running economy and reduce injury risk.,https://www.who.int
+336,Cardio - Cycling Power,Cycling builds lower body strength and cardiovascular endurance with minimal impact on the knee joints.,https://caro.doh.gov.ph
+337,Cardio - Swimming Technique,Swimming is a total-body cardio workout that improves lung capacity and is ideal for those with joint issues.,https://www.who.int
+338,Cardio - Jump Rope,Jumping rope is a high-calorie burning cardio activity that also improves coordination and bone density.,https://caro.doh.gov.ph
+339,Cardio - Rowing,"Rowing engages 85% of the body's muscles, providing a powerful aerobic and anaerobic challenge.",https://www.who.int
+340,Cardio - VO2 Max,VO2 max is a measure of the maximum amount of oxygen your body can utilize during intense exercise.,https://caro.doh.gov.ph
+341,Cardio - Heart Rate Recovery,How quickly your heart rate drops after exercise is a key indicator of cardiovascular fitness.,https://www.who.int
+342,Cardio - Overtraining,"Persistent fatigue, decreased performance, and elevated resting heart rate are signs of cardio overtraining.",https://caro.doh.gov.ph
+343,Cardio - Hydration,"During long cardio sessions, drink 400-800ml of water per hour, adjusting for sweat rate and climate.",https://www.who.int
+344,Cardio - Electrolytes,"For cardio exceeding 90 minutes, replenishing sodium, potassium, and magnesium is vital to prevent cramping.",https://caro.doh.gov.ph
+345,Cardio - Warm-up,"Dynamic stretching (leg swings, arm circles) is preferred over static stretching before a cardio session.",https://www.who.int
+346,Cardio - Cool-down,A proper cool-down helps prevent blood pooling in the legs and promotes faster recovery.,https://caro.doh.gov.ph
+347,Cardio - Cross-training,"Mixing different types of cardio (e.g., swimming and running) prevents boredom and overuse injuries.",https://www.who.int
+348,Cardio - Progression,The 10% rule suggests increasing weekly mileage or duration by no more than 10% to avoid injury.,https://caro.doh.gov.ph
+349,Cardio - Elliptical,The elliptical trainer provides a weight-bearing cardio workout that is easier on the hips and ankles than running.,https://www.who.int
+350,Hypertension - DASH Diet,"The DASH diet emphasizes fruits, vegetables, and low-fat dairy while reducing red meat and sweets.",https://www.philheart.org
+351,Hypertension - Salt Limit,"Hypertensive patients should aim for less than 1,500 mg of sodium daily for optimal BP control.",https://caro.doh.gov.ph
+352,CVD - Cholesterol,LDL (bad) cholesterol should ideally be below 100 mg/dL for individuals at low risk of heart disease.,https://www.philheart.org
+353,CVD - Triglycerides,High triglycerides combined with low HDL or high LDL is linked to fatty buildups in artery walls.,https://caro.doh.gov.ph
+354,Hypertension - Medication,Never stop taking anti-hypertensive drugs like Losartan or Amlodipine without consulting your doctor.,https://www.philheart.org
+355,CVD - Angina,Stable angina is chest pain that occurs during physical activity and is relieved by rest or nitroglycerin.,https://caro.doh.gov.ph
+356,CVD - Heart Failure,"Symptoms of heart failure include shortness of breath, fatigue, and swollen legs (edema).",https://www.philheart.org
+357,Hypertension - White Coat,White coat hypertension occurs when BP readings are high in a clinic but normal at home.,https://caro.doh.gov.ph
+358,CVD - Stroke Risk,Uncontrolled high blood pressure is the single most important manageable risk factor for stroke.,https://www.philheart.org
+359,CVD - Statins,Statins work by blocking a substance your body needs to make cholesterol and help reabsorb existing deposits.,https://caro.doh.gov.ph
+360,Hypertension - Potassium,Potassium-rich foods like avocados and bananas help counteract the blood pressure-raising effects of salt.,https://www.philheart.org
+361,CVD - Omega-3,Fatty fish like salmon and tuna provide omega-3 fatty acids that lower heart disease risk.,https://caro.doh.gov.ph
+362,CVD - Aspirin Use,Daily aspirin therapy may be recommended for some people to prevent a first or second heart attack.,https://www.philheart.org
+363,Hypertension - Exercise,Regular aerobic exercise can lower systolic blood pressure by an average of 5 to 8 mmHg.,https://caro.doh.gov.ph
+364,CVD - Smoking Effect,"Smoking damages the lining of the arteries, leading to the buildup of fatty material (atheroma).",https://www.philheart.org
+365,CVD - Diabetes Link,People with diabetes are twice as likely to have heart disease or a stroke than people without diabetes.,https://caro.doh.gov.ph
+366,Hypertension - Alcohol,Excessive alcohol consumption can raise blood pressure to unhealthy levels and damage the heart muscle.,https://www.philheart.org
+367,CVD - Stress,Chronic stress can lead to high blood pressure and increase the risk of heart attack and stroke.,https://caro.doh.gov.ph
+368,CVD - Sleep Apnea,"Obstructive sleep apnea is a risk factor for hypertension, heart failure, and stroke.",https://www.philheart.org
+369,Hypertension - Monitoring,Keep a diary of home blood pressure readings to help your physician tailor your treatment.,https://caro.doh.gov.ph
+370,Hypertension - DASH Diet,"The DASH diet emphasizes fruits, vegetables, and low-fat dairy while reducing red meat and sweets.",https://www.philheart.org
+371,Hypertension - Salt Limit,"Hypertensive patients should aim for less than 1,500 mg of sodium daily for optimal BP control.",https://caro.doh.gov.ph
+372,CVD - Cholesterol,LDL (bad) cholesterol should ideally be below 100 mg/dL for individuals at low risk of heart disease.,https://www.philheart.org
+373,CVD - Triglycerides,High triglycerides combined with low HDL or high LDL is linked to fatty buildups in artery walls.,https://caro.doh.gov.ph
+374,Hypertension - Medication,Never stop taking anti-hypertensive drugs like Losartan or Amlodipine without consulting your doctor.,https://www.philheart.org
+375,CVD - Angina,Stable angina is chest pain that occurs during physical activity and is relieved by rest or nitroglycerin.,https://caro.doh.gov.ph
+376,CVD - Heart Failure,"Symptoms of heart failure include shortness of breath, fatigue, and swollen legs (edema).",https://www.philheart.org
+377,Hypertension - White Coat,White coat hypertension occurs when BP readings are high in a clinic but normal at home.,https://caro.doh.gov.ph
+378,CVD - Stroke Risk,Uncontrolled high blood pressure is the single most important manageable risk factor for stroke.,https://www.philheart.org
+379,CVD - Statins,Statins work by blocking a substance your body needs to make cholesterol and help reabsorb existing deposits.,https://caro.doh.gov.ph
+380,Hypertension - Potassium,Potassium-rich foods like avocados and bananas help counteract the blood pressure-raising effects of salt.,https://www.philheart.org
+381,CVD - Omega-3,Fatty fish like salmon and tuna provide omega-3 fatty acids that lower heart disease risk.,https://caro.doh.gov.ph
+382,CVD - Aspirin Use,Daily aspirin therapy may be recommended for some people to prevent a first or second heart attack.,https://www.philheart.org
+383,Hypertension - Exercise,Regular aerobic exercise can lower systolic blood pressure by an average of 5 to 8 mmHg.,https://caro.doh.gov.ph
+384,CVD - Smoking Effect,"Smoking damages the lining of the arteries, leading to the buildup of fatty material (atheroma).",https://www.philheart.org
+385,CVD - Diabetes Link,People with diabetes are twice as likely to have heart disease or a stroke than people without diabetes.,https://caro.doh.gov.ph
+386,Hypertension - Alcohol,Excessive alcohol consumption can raise blood pressure to unhealthy levels and damage the heart muscle.,https://www.philheart.org
+387,CVD - Stress,Chronic stress can lead to high blood pressure and increase the risk of heart attack and stroke.,https://caro.doh.gov.ph
+388,CVD - Sleep Apnea,"Obstructive sleep apnea is a risk factor for hypertension, heart failure, and stroke.",https://www.philheart.org
+389,Hypertension - Monitoring,Keep a diary of home blood pressure readings to help your physician tailor your treatment.,https://caro.doh.gov.ph
+390,Hypertension - DASH Diet,"The DASH diet emphasizes fruits, vegetables, and low-fat dairy while reducing red meat and sweets.",https://www.philheart.org
+391,Hypertension - Salt Limit,"Hypertensive patients should aim for less than 1,500 mg of sodium daily for optimal BP control.",https://caro.doh.gov.ph
+392,CVD - Cholesterol,LDL (bad) cholesterol should ideally be below 100 mg/dL for individuals at low risk of heart disease.,https://www.philheart.org
+393,CVD - Triglycerides,High triglycerides combined with low HDL or high LDL is linked to fatty buildups in artery walls.,https://caro.doh.gov.ph
+394,Hypertension - Medication,Never stop taking anti-hypertensive drugs like Losartan or Amlodipine without consulting your doctor.,https://www.philheart.org
+395,CVD - Angina,Stable angina is chest pain that occurs during physical activity and is relieved by rest or nitroglycerin.,https://caro.doh.gov.ph
+396,CVD - Heart Failure,"Symptoms of heart failure include shortness of breath, fatigue, and swollen legs (edema).",https://www.philheart.org
+397,Hypertension - White Coat,White coat hypertension occurs when BP readings are high in a clinic but normal at home.,https://caro.doh.gov.ph
+398,CVD - Stroke Risk,Uncontrolled high blood pressure is the single most important manageable risk factor for stroke.,https://www.philheart.org
+399,CVD - Statins,Statins work by blocking a substance your body needs to make cholesterol and help reabsorb existing deposits.,https://caro.doh.gov.ph
+400,Hypertension - Potassium,Potassium-rich foods like avocados and bananas help counteract the blood pressure-raising effects of salt.,https://www.philheart.org
+401,CVD - Omega-3,Fatty fish like salmon and tuna provide omega-3 fatty acids that lower heart disease risk.,https://caro.doh.gov.ph
+402,CVD - Aspirin Use,Daily aspirin therapy may be recommended for some people to prevent a first or second heart attack.,https://www.philheart.org
+403,Hypertension - Exercise,Regular aerobic exercise can lower systolic blood pressure by an average of 5 to 8 mmHg.,https://caro.doh.gov.ph
+404,CVD - Smoking Effect,"Smoking damages the lining of the arteries, leading to the buildup of fatty material (atheroma).",https://www.philheart.org
+405,CVD - Diabetes Link,People with diabetes are twice as likely to have heart disease or a stroke than people without diabetes.,https://caro.doh.gov.ph
+406,Hypertension - Alcohol,Excessive alcohol consumption can raise blood pressure to unhealthy levels and damage the heart muscle.,https://www.philheart.org
+407,CVD - Stress,Chronic stress can lead to high blood pressure and increase the risk of heart attack and stroke.,https://caro.doh.gov.ph
+408,CVD - Sleep Apnea,"Obstructive sleep apnea is a risk factor for hypertension, heart failure, and stroke.",https://www.philheart.org
+409,Hypertension - Monitoring,Keep a diary of home blood pressure readings to help your physician tailor your treatment.,https://caro.doh.gov.ph
+410,Hypertension - DASH Diet,"The DASH diet emphasizes fruits, vegetables, and low-fat dairy while reducing red meat and sweets.",https://www.philheart.org
+411,Hypertension - Salt Limit,"Hypertensive patients should aim for less than 1,500 mg of sodium daily for optimal BP control.",https://caro.doh.gov.ph
+412,CVD - Cholesterol,LDL (bad) cholesterol should ideally be below 100 mg/dL for individuals at low risk of heart disease.,https://www.philheart.org
+413,CVD - Triglycerides,High triglycerides combined with low HDL or high LDL is linked to fatty buildups in artery walls.,https://caro.doh.gov.ph
+414,Hypertension - Medication,Never stop taking anti-hypertensive drugs like Losartan or Amlodipine without consulting your doctor.,https://www.philheart.org
+415,CVD - Angina,Stable angina is chest pain that occurs during physical activity and is relieved by rest or nitroglycerin.,https://caro.doh.gov.ph
+416,CVD - Heart Failure,"Symptoms of heart failure include shortness of breath, fatigue, and swollen legs (edema).",https://www.philheart.org
+417,Hypertension - White Coat,White coat hypertension occurs when BP readings are high in a clinic but normal at home.,https://caro.doh.gov.ph
+418,CVD - Stroke Risk,Uncontrolled high blood pressure is the single most important manageable risk factor for stroke.,https://www.philheart.org
+419,CVD - Statins,Statins work by blocking a substance your body needs to make cholesterol and help reabsorb existing deposits.,https://caro.doh.gov.ph
+420,Hypertension - Potassium,Potassium-rich foods like avocados and bananas help counteract the blood pressure-raising effects of salt.,https://www.philheart.org
+421,CVD - Omega-3,Fatty fish like salmon and tuna provide omega-3 fatty acids that lower heart disease risk.,https://caro.doh.gov.ph
+422,CVD - Aspirin Use,Daily aspirin therapy may be recommended for some people to prevent a first or second heart attack.,https://www.philheart.org
+423,Hypertension - Exercise,Regular aerobic exercise can lower systolic blood pressure by an average of 5 to 8 mmHg.,https://caro.doh.gov.ph
+424,CVD - Smoking Effect,"Smoking damages the lining of the arteries, leading to the buildup of fatty material (atheroma).",https://www.philheart.org
+425,CVD - Diabetes Link,People with diabetes are twice as likely to have heart disease or a stroke than people without diabetes.,https://caro.doh.gov.ph
+426,Hypertension - Alcohol,Excessive alcohol consumption can raise blood pressure to unhealthy levels and damage the heart muscle.,https://www.philheart.org
+427,CVD - Stress,Chronic stress can lead to high blood pressure and increase the risk of heart attack and stroke.,https://caro.doh.gov.ph
+428,CVD - Sleep Apnea,"Obstructive sleep apnea is a risk factor for hypertension, heart failure, and stroke.",https://www.philheart.org
+429,Hypertension - Monitoring,Keep a diary of home blood pressure readings to help your physician tailor your treatment.,https://caro.doh.gov.ph
+430,Hypertension - DASH Diet,"The DASH diet emphasizes fruits, vegetables, and low-fat dairy while reducing red meat and sweets.",https://www.philheart.org
+431,Hypertension - Salt Limit,"Hypertensive patients should aim for less than 1,500 mg of sodium daily for optimal BP control.",https://caro.doh.gov.ph
+432,CVD - Cholesterol,LDL (bad) cholesterol should ideally be below 100 mg/dL for individuals at low risk of heart disease.,https://www.philheart.org
+433,CVD - Triglycerides,High triglycerides combined with low HDL or high LDL is linked to fatty buildups in artery walls.,https://caro.doh.gov.ph
+434,Hypertension - Medication,Never stop taking anti-hypertensive drugs like Losartan or Amlodipine without consulting your doctor.,https://www.philheart.org
+435,CVD - Angina,Stable angina is chest pain that occurs during physical activity and is relieved by rest or nitroglycerin.,https://caro.doh.gov.ph
+436,CVD - Heart Failure,"Symptoms of heart failure include shortness of breath, fatigue, and swollen legs (edema).",https://www.philheart.org
+437,Hypertension - White Coat,White coat hypertension occurs when BP readings are high in a clinic but normal at home.,https://caro.doh.gov.ph
+438,CVD - Stroke Risk,Uncontrolled high blood pressure is the single most important manageable risk factor for stroke.,https://www.philheart.org
+439,CVD - Statins,Statins work by blocking a substance your body needs to make cholesterol and help reabsorb existing deposits.,https://caro.doh.gov.ph
+440,Hypertension - Potassium,Potassium-rich foods like avocados and bananas help counteract the blood pressure-raising effects of salt.,https://www.philheart.org
+441,CVD - Omega-3,Fatty fish like salmon and tuna provide omega-3 fatty acids that lower heart disease risk.,https://caro.doh.gov.ph
+442,CVD - Aspirin Use,Daily aspirin therapy may be recommended for some people to prevent a first or second heart attack.,https://www.philheart.org
+443,Hypertension - Exercise,Regular aerobic exercise can lower systolic blood pressure by an average of 5 to 8 mmHg.,https://caro.doh.gov.ph
+444,CVD - Smoking Effect,"Smoking damages the lining of the arteries, leading to the buildup of fatty material (atheroma).",https://www.philheart.org
+445,CVD - Diabetes Link,People with diabetes are twice as likely to have heart disease or a stroke than people without diabetes.,https://caro.doh.gov.ph
+446,Hypertension - Alcohol,Excessive alcohol consumption can raise blood pressure to unhealthy levels and damage the heart muscle.,https://www.philheart.org
+447,CVD - Stress,Chronic stress can lead to high blood pressure and increase the risk of heart attack and stroke.,https://caro.doh.gov.ph
+448,CVD - Sleep Apnea,"Obstructive sleep apnea is a risk factor for hypertension, heart failure, and stroke.",https://www.philheart.org
+449,Hypertension - Monitoring,Keep a diary of home blood pressure readings to help your physician tailor your treatment.,https://caro.doh.gov.ph
+450,Diabetes - Fiber,Consuming 25-35g of fiber daily helps slow glucose absorption and improves bowel health.,http://www.fnri.dost.gov.ph
+451,Diabetes - Foot Care,"Check your feet daily for cuts, blisters, or red spots, as nerve damage can hide injuries.",https://www.who.int
+452,Cancer - Prevention,"Avoid tobacco, maintain a healthy weight, and get vaccinated against Hepatitis B and HPV.",http://www.fnri.dost.gov.ph
+453,NCD - Screenings,"Adults should have their blood glucose and lipid profile checked starting at age 40, or earlier if at risk.",https://www.who.int
+454,Nutrition - Sugar,The WHO recommends that added sugars should make up less than 10% of total daily energy intake.,http://www.fnri.dost.gov.ph
+455,Nutrition - Trans Fats,"Trans fats, found in some margarines and snack foods, increase heart disease risk and should be avoided.",https://www.who.int
+456,Diabetes - Glycemic Index,Low-GI foods like whole oats and lentils produce a smaller rise in blood glucose levels.,http://www.fnri.dost.gov.ph
+457,NCD - Physical Activity,The WHO recommends 150-300 minutes of moderate-intensity aerobic activity per week for all adults.,https://www.who.int
+458,NCD - Weight Management,A weight loss of just 5-10% of total body weight can significantly improve NCD risk factors.,http://www.fnri.dost.gov.ph
+459,Diabetes - Sick Day Rules,"Continue taking your diabetes medication even if you are ill and unable to eat much, but monitor sugar closely.",https://www.who.int
+460,NCD - Alcohol Limit,Limit alcohol to no more than 2 drinks a day for men and 1 drink a day for women to reduce cancer risk.,http://www.fnri.dost.gov.ph
+461,Cancer - Colorectal,A diet high in red and processed meats increases the risk of colon cancer; choose lean proteins instead.,https://www.who.int
+462,NCD - Mental Health,Mental health conditions like depression can increase the risk of developing chronic NCDs.,http://www.fnri.dost.gov.ph
+463,Diabetes - Protein,Including protein in meals can help with satiety and prevent post-meal blood sugar spikes.,https://www.who.int
+464,NCD - Air Quality,Long-term exposure to air pollution is linked to increased rates of cardiovascular and respiratory diseases.,http://www.fnri.dost.gov.ph
+465,Diabetes - Monitoring,Frequent self-monitoring of blood glucose (SMBG) provides immediate feedback on diet and exercise impact.,https://www.who.int
+466,NCD - Water Intake,Replacing sugary drinks with water is a key strategy for weight loss and metabolic health.,http://www.fnri.dost.gov.ph
+467,Cancer - UV Exposure,Protect your skin from the sun's UV rays to reduce the risk of melanoma and other skin cancers.,https://www.who.int
+468,NCD - Health Literacy,Understanding how to read nutrition labels empowers patients to manage their chronic conditions better.,http://www.fnri.dost.gov.ph
+469,Diabetes - HbA1c,The HbA1c test provides a 3-month average of blood sugar levels and is a key diagnostic tool.,https://www.who.int
+470,Diabetes - Fiber,Consuming 25-35g of fiber daily helps slow glucose absorption and improves bowel health.,http://www.fnri.dost.gov.ph
+471,Diabetes - Foot Care,"Check your feet daily for cuts, blisters, or red spots, as nerve damage can hide injuries.",https://www.who.int
+472,Cancer - Prevention,"Avoid tobacco, maintain a healthy weight, and get vaccinated against Hepatitis B and HPV.",http://www.fnri.dost.gov.ph
+473,NCD - Screenings,"Adults should have their blood glucose and lipid profile checked starting at age 40, or earlier if at risk.",https://www.who.int
+474,Nutrition - Sugar,The WHO recommends that added sugars should make up less than 10% of total daily energy intake.,http://www.fnri.dost.gov.ph
+475,Nutrition - Trans Fats,"Trans fats, found in some margarines and snack foods, increase heart disease risk and should be avoided.",https://www.who.int
+476,Diabetes - Glycemic Index,Low-GI foods like whole oats and lentils produce a smaller rise in blood glucose levels.,http://www.fnri.dost.gov.ph
+477,NCD - Physical Activity,The WHO recommends 150-300 minutes of moderate-intensity aerobic activity per week for all adults.,https://www.who.int
+478,NCD - Weight Management,A weight loss of just 5-10% of total body weight can significantly improve NCD risk factors.,http://www.fnri.dost.gov.ph
+479,Diabetes - Sick Day Rules,"Continue taking your diabetes medication even if you are ill and unable to eat much, but monitor sugar closely.",https://www.who.int
+480,NCD - Alcohol Limit,Limit alcohol to no more than 2 drinks a day for men and 1 drink a day for women to reduce cancer risk.,http://www.fnri.dost.gov.ph
+481,Cancer - Colorectal,A diet high in red and processed meats increases the risk of colon cancer; choose lean proteins instead.,https://www.who.int
+482,NCD - Mental Health,Mental health conditions like depression can increase the risk of developing chronic NCDs.,http://www.fnri.dost.gov.ph
+483,Diabetes - Protein,Including protein in meals can help with satiety and prevent post-meal blood sugar spikes.,https://www.who.int
+484,NCD - Air Quality,Long-term exposure to air pollution is linked to increased rates of cardiovascular and respiratory diseases.,http://www.fnri.dost.gov.ph
+485,Diabetes - Monitoring,Frequent self-monitoring of blood glucose (SMBG) provides immediate feedback on diet and exercise impact.,https://www.who.int
+486,NCD - Water Intake,Replacing sugary drinks with water is a key strategy for weight loss and metabolic health.,http://www.fnri.dost.gov.ph
+487,Cancer - UV Exposure,Protect your skin from the sun's UV rays to reduce the risk of melanoma and other skin cancers.,https://www.who.int
+488,NCD - Health Literacy,Understanding how to read nutrition labels empowers patients to manage their chronic conditions better.,http://www.fnri.dost.gov.ph
+489,Diabetes - HbA1c,The HbA1c test provides a 3-month average of blood sugar levels and is a key diagnostic tool.,https://www.who.int
+490,Diabetes - Fiber,Consuming 25-35g of fiber daily helps slow glucose absorption and improves bowel health.,http://www.fnri.dost.gov.ph
+491,Diabetes - Foot Care,"Check your feet daily for cuts, blisters, or red spots, as nerve damage can hide injuries.",https://www.who.int
+492,Cancer - Prevention,"Avoid tobacco, maintain a healthy weight, and get vaccinated against Hepatitis B and HPV.",http://www.fnri.dost.gov.ph
+493,NCD - Screenings,"Adults should have their blood glucose and lipid profile checked starting at age 40, or earlier if at risk.",https://www.who.int
+494,Nutrition - Sugar,The WHO recommends that added sugars should make up less than 10% of total daily energy intake.,http://www.fnri.dost.gov.ph
+495,Nutrition - Trans Fats,"Trans fats, found in some margarines and snack foods, increase heart disease risk and should be avoided.",https://www.who.int
+496,Diabetes - Glycemic Index,Low-GI foods like whole oats and lentils produce a smaller rise in blood glucose levels.,http://www.fnri.dost.gov.ph
+497,NCD - Physical Activity,The WHO recommends 150-300 minutes of moderate-intensity aerobic activity per week for all adults.,https://www.who.int
+498,NCD - Weight Management,A weight loss of just 5-10% of total body weight can significantly improve NCD risk factors.,http://www.fnri.dost.gov.ph
+499,Diabetes - Sick Day Rules,"Continue taking your diabetes medication even if you are ill and unable to eat much, but monitor sugar closely.",https://www.who.int
+500,NCD - Alcohol Limit,Limit alcohol to no more than 2 drinks a day for men and 1 drink a day for women to reduce cancer risk.,http://www.fnri.dost.gov.ph
+501,Cancer - Colorectal,A diet high in red and processed meats increases the risk of colon cancer; choose lean proteins instead.,https://www.who.int
+502,NCD - Mental Health,Mental health conditions like depression can increase the risk of developing chronic NCDs.,http://www.fnri.dost.gov.ph
+503,Diabetes - Protein,Including protein in meals can help with satiety and prevent post-meal blood sugar spikes.,https://www.who.int
+504,NCD - Air Quality,Long-term exposure to air pollution is linked to increased rates of cardiovascular and respiratory diseases.,http://www.fnri.dost.gov.ph
+505,Diabetes - Monitoring,Frequent self-monitoring of blood glucose (SMBG) provides immediate feedback on diet and exercise impact.,https://www.who.int
+506,NCD - Water Intake,Replacing sugary drinks with water is a key strategy for weight loss and metabolic health.,http://www.fnri.dost.gov.ph
+507,Cancer - UV Exposure,Protect your skin from the sun's UV rays to reduce the risk of melanoma and other skin cancers.,https://www.who.int
+508,NCD - Health Literacy,Understanding how to read nutrition labels empowers patients to manage their chronic conditions better.,http://www.fnri.dost.gov.ph
+509,Diabetes - HbA1c,The HbA1c test provides a 3-month average of blood sugar levels and is a key diagnostic tool.,https://www.who.int
+510,Diabetes - Fiber,Consuming 25-35g of fiber daily helps slow glucose absorption and improves bowel health.,http://www.fnri.dost.gov.ph
+511,Diabetes - Foot Care,"Check your feet daily for cuts, blisters, or red spots, as nerve damage can hide injuries.",https://www.who.int
+512,Cancer - Prevention,"Avoid tobacco, maintain a healthy weight, and get vaccinated against Hepatitis B and HPV.",http://www.fnri.dost.gov.ph
+513,NCD - Screenings,"Adults should have their blood glucose and lipid profile checked starting at age 40, or earlier if at risk.",https://www.who.int
+514,Nutrition - Sugar,The WHO recommends that added sugars should make up less than 10% of total daily energy intake.,http://www.fnri.dost.gov.ph
+515,Nutrition - Trans Fats,"Trans fats, found in some margarines and snack foods, increase heart disease risk and should be avoided.",https://www.who.int
+516,Diabetes - Glycemic Index,Low-GI foods like whole oats and lentils produce a smaller rise in blood glucose levels.,http://www.fnri.dost.gov.ph
+517,NCD - Physical Activity,The WHO recommends 150-300 minutes of moderate-intensity aerobic activity per week for all adults.,https://www.who.int
+518,NCD - Weight Management,A weight loss of just 5-10% of total body weight can significantly improve NCD risk factors.,http://www.fnri.dost.gov.ph
+519,Diabetes - Sick Day Rules,"Continue taking your diabetes medication even if you are ill and unable to eat much, but monitor sugar closely.",https://www.who.int
+520,NCD - Alcohol Limit,Limit alcohol to no more than 2 drinks a day for men and 1 drink a day for women to reduce cancer risk.,http://www.fnri.dost.gov.ph
+521,Cancer - Colorectal,A diet high in red and processed meats increases the risk of colon cancer; choose lean proteins instead.,https://www.who.int
+522,NCD - Mental Health,Mental health conditions like depression can increase the risk of developing chronic NCDs.,http://www.fnri.dost.gov.ph
+523,Diabetes - Protein,Including protein in meals can help with satiety and prevent post-meal blood sugar spikes.,https://www.who.int
+524,NCD - Air Quality,Long-term exposure to air pollution is linked to increased rates of cardiovascular and respiratory diseases.,http://www.fnri.dost.gov.ph
+525,Diabetes - Monitoring,Frequent self-monitoring of blood glucose (SMBG) provides immediate feedback on diet and exercise impact.,https://www.who.int
+526,NCD - Water Intake,Replacing sugary drinks with water is a key strategy for weight loss and metabolic health.,http://www.fnri.dost.gov.ph
+527,Cancer - UV Exposure,Protect your skin from the sun's UV rays to reduce the risk of melanoma and other skin cancers.,https://www.who.int
+528,NCD - Health Literacy,Understanding how to read nutrition labels empowers patients to manage their chronic conditions better.,http://www.fnri.dost.gov.ph
+529,Diabetes - HbA1c,The HbA1c test provides a 3-month average of blood sugar levels and is a key diagnostic tool.,https://www.who.int
+530,Diabetes - Fiber,Consuming 25-35g of fiber daily helps slow glucose absorption and improves bowel health.,http://www.fnri.dost.gov.ph
+531,Diabetes - Foot Care,"Check your feet daily for cuts, blisters, or red spots, as nerve damage can hide injuries.",https://www.who.int
+532,Cancer - Prevention,"Avoid tobacco, maintain a healthy weight, and get vaccinated against Hepatitis B and HPV.",http://www.fnri.dost.gov.ph
+533,NCD - Screenings,"Adults should have their blood glucose and lipid profile checked starting at age 40, or earlier if at risk.",https://www.who.int
+534,Nutrition - Sugar,The WHO recommends that added sugars should make up less than 10% of total daily energy intake.,http://www.fnri.dost.gov.ph
+535,Nutrition - Trans Fats,"Trans fats, found in some margarines and snack foods, increase heart disease risk and should be avoided.",https://www.who.int
+536,Diabetes - Glycemic Index,Low-GI foods like whole oats and lentils produce a smaller rise in blood glucose levels.,http://www.fnri.dost.gov.ph
+537,NCD - Physical Activity,The WHO recommends 150-300 minutes of moderate-intensity aerobic activity per week for all adults.,https://www.who.int
+538,NCD - Weight Management,A weight loss of just 5-10% of total body weight can significantly improve NCD risk factors.,http://www.fnri.dost.gov.ph
+539,Diabetes - Sick Day Rules,"Continue taking your diabetes medication even if you are ill and unable to eat much, but monitor sugar closely.",https://www.who.int
+540,NCD - Alcohol Limit,Limit alcohol to no more than 2 drinks a day for men and 1 drink a day for women to reduce cancer risk.,http://www.fnri.dost.gov.ph
+541,Cancer - Colorectal,A diet high in red and processed meats increases the risk of colon cancer; choose lean proteins instead.,https://www.who.int
+542,NCD - Mental Health,Mental health conditions like depression can increase the risk of developing chronic NCDs.,http://www.fnri.dost.gov.ph
+543,Diabetes - Protein,Including protein in meals can help with satiety and prevent post-meal blood sugar spikes.,https://www.who.int
+544,NCD - Air Quality,Long-term exposure to air pollution is linked to increased rates of cardiovascular and respiratory diseases.,http://www.fnri.dost.gov.ph
+545,Diabetes - Monitoring,Frequent self-monitoring of blood glucose (SMBG) provides immediate feedback on diet and exercise impact.,https://www.who.int
+546,NCD - Water Intake,Replacing sugary drinks with water is a key strategy for weight loss and metabolic health.,http://www.fnri.dost.gov.ph
+547,Cancer - UV Exposure,Protect your skin from the sun's UV rays to reduce the risk of melanoma and other skin cancers.,https://www.who.int
+548,NCD - Health Literacy,Understanding how to read nutrition labels empowers patients to manage their chronic conditions better. ,http://www.fnri.dost.gov.ph
+549,Diabetes - HbA1c,The HbA1c test provides a 3-month average of blood sugar levels and is a key diagnostic tool.,https://www.who.int

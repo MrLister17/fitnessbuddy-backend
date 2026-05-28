@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: fitnessbuddy-backend
+    env: python
+    region: oregon
+    plan: free
+    buildCommand: "pip install -r fitness_buddy/requirements.txt"
+    startCommand: "cd fitness_buddy && uvicorn main:app --host 0.0.0.0 --port $PORT"
+    healthCheckPath: /
+    envVars:
+      - key: HF_TOKEN
+        sync: false
+      - key: FIREBASE_CONFIG
+        sync: false
+    autoDeploy: true
