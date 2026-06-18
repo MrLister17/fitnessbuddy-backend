@@ -122,3 +122,21 @@ def fetch_latest_activity(user_id: str):
 
 # Alias for backward compatibility (if any old code still calls fetch_weekly_progress)
 fetch_weekly_progress = fetch_user_progress
+
+def fetch_all_activities(user_id: str, limit: int = 50):
+    """
+    Returns list of recent activities for a user.
+    Added to fix ImportError in workout.py
+    """
+    try:
+        ref = db.reference(f'users/{user_id}/activities')
+        result = ref.order_by_child('timestamp').limit_to_last(limit).get()
+        if not result:
+            return []
+        activities = list(result.values())
+        # Sort newest first
+        activities.sort(key=lambda x: str(x.get('timestamp', '')), reverse=True)
+        return activities
+    except Exception as e:
+        print(f"Error fetching all activities: {e}")
+        return []
