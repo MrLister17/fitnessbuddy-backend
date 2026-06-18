@@ -1,4 +1,5 @@
 # fitness_buddy/firebase_utils.py
+
 import firebase_admin
 from firebase_admin import db
 from datetime import date
@@ -7,7 +8,6 @@ from datetime import date
 def fetch_user_context(user_id: str):
     """
     Fetches and maps user data from the new flat database schema.
-    (Your original implementation - unchanged)
     """
     try:
         user_ref = db.reference(f'users/{user_id}').get() or {}
@@ -58,38 +58,45 @@ def fetch_user_context(user_id: str):
         return None
 
 
-# ==================== NEW HELPERS FOR ACTIVITY-AWARE TIPS ====================
+def fetch_user_progress(user_id: str):
+    """
+    Returns weekly progress for the current ISO week (Monday–Sunday).
+    Used by progress router and health tip router.
+    """
+    try:
+        today = date.today()
+        iso_week_str = today.strftime("%Y-W%W")
+        weekly_node = db.reference(f'weekly_summaries/{user_id}/{iso_week_str}').get() or {}
+
+        completed_minutes = weekly_node.get('totalMinutes', 0) or 0
+        days_remaining = max(6 - today.weekday(), 0)
+
+        return {
+            "completed_minutes": completed_minutes,
+            "days_remaining": days_remaining,
+            "iso_week": iso_week_str
+        }
+    except Exception as e:
+        print(f"Error fetching user progress for {user_id}: {e}")
+        return {
+            "completed_minutes": 0,
+            "days_remaining": 3,
+            "iso_week": ""
+        }
+
 
 def fetch_latest_activity(user_id: str):
-    """Returns the most recent activity document or None."""
+    """Returns the most recent activity or None. Used by health tip router."""
     try:
         ref = db.reference(f'users/{user_id}/activities')
-        # Get the single most recent activity by timestamp
         result = ref.order_by_child('timestamp').limit_to_last(1).get()
         if not result:
             return None
-        # RTDB returns a dict with one entry
         return list(result.values())[0]
     except Exception as e:
         print(f"Error fetching latest activity for {user_id}: {e}")
         return None
 
 
-def fetch_weekly_progress(user_id: str):
-    """Returns completed minutes this ISO week + days remaining (Mon–Sun)."""
-    try:
-        today = date.today()
-        iso_week_str = today.strftime("%Y-W%W")
-        weekly_node = db.reference(f'weekly_summaries/{user_id}/{iso_week_str}').get() or {}
-        completed = weekly_node.get('totalMinutes', 0) or 0
-
-        # Days remaining in ISO week (Monday = 0 ... Sunday = 6)
-        days_remaining = max(6 - today.weekday(), 0)
-
-        return {
-            "completed_minutes": completed,
-            "days_remaining": days_remaining
-        }
-    except Exception as e:
-        print(f"Error fetching weekly progress for {user_id}: {e}")
-        return {"completed_minutes": 0, "days_remaining": 3}
+# Alias for backward compatibility (if any old code still calls fetch_weekly_progress)
+fetch_weekly_progress = fetch_user_progress
