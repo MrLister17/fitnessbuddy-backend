@@ -1,9 +1,31 @@
 # fitness_buddy/firebase_utils.py
-
+import os
+import json
 import firebase_admin
-from firebase_admin import db
+from firebase_admin import credentials, db
 from datetime import date
 
+# Initialize Firebase Admin SDK
+if not firebase_admin._apps:
+    # Option A: Using a Render Environment Variable containing the JSON string (Recommended for Render)
+    firebase_creds = os.environ.get("FIREBASE_CREDENTIALS")
+    db_url = os.environ.get("FIREBASE_DATABASE_URL") # e.g., "https://your-db.firebaseio.com/"
+    
+    if firebase_creds and db_url:
+        creds_dict = json.loads(firebase_creds)
+        cred = credentials.Certificate(creds_dict)
+        firebase_admin.initialize_app(cred, {
+            'databaseURL': db_url
+        })
+    else:
+        # Fallback for local development if you use a local JSON file
+        try:
+            cred = credentials.Certificate("serviceAccountKey.json")
+            firebase_admin.initialize_app(cred, {
+                'databaseURL': "YOUR_LOCAL_DATABASE_URL"
+            })
+        except Exception as e:
+            print(f"Firebase initialization bypassed or failed: {e}")
 
 def fetch_user_context(user_id: str):
     """
