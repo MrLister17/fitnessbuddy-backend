@@ -1,11 +1,10 @@
 import os
-from datetime import date
 from fastapi import APIRouter, HTTPException
 from huggingface_hub import InferenceClient
 from ..firebase_utils import (
     fetch_user_context,
+    fetch_user_progress,
     fetch_latest_activity,
-    fetch_weekly_progress,
 )
 from ..prompts import PROMPT_HEALTH_TIP_ACTIVITY_AWARE
 
@@ -44,16 +43,15 @@ async def get_health_tip(user_id: str):
             raise HTTPException(status_code=404, detail="User not found")
 
         last_activity = fetch_latest_activity(user_id)
-        week_progress = fetch_weekly_progress(user_id)
+        week = fetch_user_progress(user_id)
 
         coaching_mode = _compute_coaching_mode(
             last_activity=last_activity,
-            days_remaining=week_progress.get("days_remaining", 3),
-            completed_minutes=week_progress.get("completed_minutes", 0),
+            days_remaining=week.get("days_remaining", 3),
+            completed_minutes=week.get("completed_minutes", 0),
             target_minutes=user.get("weekly_mvpa_goal", 150),
         )
 
-        # Build clean last activity block for the prompt
         if last_activity:
             last_block = (
                 f"- Type: {last_activity.get('type', 'movement')}\n"
@@ -72,8 +70,8 @@ async def get_health_tip(user_id: str):
             lifestyle=user.get("lifestyle", ""),
             medical_constraints=user.get("medical_constraints", ""),
             last_activity_block=last_block,
-            completed_minutes=week_progress.get("completed_minutes", 0),
-            days_remaining=week_progress.get("days_remaining", 3),
+            completed_minutes=week.get("completed_minutes", 0),
+            days_remaining=week.get("days_remaining", 3),
             coaching_mode=coaching_mode,
         )
 
