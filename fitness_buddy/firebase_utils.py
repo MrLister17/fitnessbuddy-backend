@@ -1,4 +1,5 @@
 # fitness_buddy/firebase_utils.py
+
 import os
 import json
 import firebase_admin
@@ -7,18 +8,17 @@ from datetime import date
 
 # Initialize Firebase Admin SDK
 if not firebase_admin._apps:
-    # Option A: Using a Render Environment Variable containing the JSON string (Recommended for Render)
     firebase_creds = os.environ.get("FIREBASE_CREDENTIALS")
-    db_url = os.environ.get("FIREBASE_DATABASE_URL") # e.g., "https://your-db.firebaseio.com/"
-    
+    db_url = os.environ.get("FIREBASE_DATABASE_URL")
+
     if firebase_creds and db_url:
-        creds_dict = json.loads(firebase_creds)
-        cred = credentials.Certificate(creds_dict)
-        firebase_admin.initialize_app(cred, {
-            'databaseURL': db_url
-        })
+        try:
+            creds_dict = json.loads(firebase_creds)
+            cred = credentials.Certificate(creds_dict)
+            firebase_admin.initialize_app(cred, {'databaseURL': db_url})
+        except Exception as e:
+            print(f"Firebase initialization failed: {e}")
     else:
-        # Fallback for local development if you use a local JSON file
         try:
             cred = credentials.Certificate("serviceAccountKey.json")
             firebase_admin.initialize_app(cred, {
@@ -27,10 +27,8 @@ if not firebase_admin._apps:
         except Exception as e:
             print(f"Firebase initialization bypassed or failed: {e}")
 
+
 def fetch_user_context(user_id: str):
-    """
-    Fetches and maps user data from the new flat database schema.
-    """
     try:
         user_ref = db.reference(f'users/{user_id}').get() or {}
         goals_ref = db.reference(f'user_goals/{user_id}').get() or {}
@@ -81,10 +79,6 @@ def fetch_user_context(user_id: str):
 
 
 def fetch_user_progress(user_id: str):
-    """
-    Returns weekly progress for the current ISO week (Monday–Sunday).
-    Used by progress router and health tip router.
-    """
     try:
         today = date.today()
         iso_week_str = today.strftime("%Y-W%W")
@@ -100,15 +94,10 @@ def fetch_user_progress(user_id: str):
         }
     except Exception as e:
         print(f"Error fetching user progress for {user_id}: {e}")
-        return {
-            "completed_minutes": 0,
-            "days_remaining": 3,
-            "iso_week": ""
-        }
+        return {"completed_minutes": 0, "days_remaining": 3, "iso_week": ""}
 
 
 def fetch_latest_activity(user_id: str):
-    """Returns the most recent activity or None. Used by health tip router."""
     try:
         ref = db.reference(f'users/{user_id}/activities')
         result = ref.order_by_child('timestamp').limit_to_last(1).get()
@@ -120,23 +109,20 @@ def fetch_latest_activity(user_id: str):
         return None
 
 
-# Alias for backward compatibility (if any old code still calls fetch_weekly_progress)
-fetch_weekly_progress = fetch_user_progress
-
 def fetch_all_activities(user_id: str, limit: int = 50):
-    """
-    Returns list of recent activities for a user.
-    Added to fix ImportError in workout.py
-    """
+    """Returns list of recent activities. Added to fix workout.py import."""
     try:
         ref = db.reference(f'users/{user_id}/activities')
         result = ref.order_by_child('timestamp').limit_to_last(limit).get()
         if not result:
             return []
         activities = list(result.values())
-        # Sort newest first
         activities.sort(key=lambda x: str(x.get('timestamp', '')), reverse=True)
         return activities
     except Exception as e:
         print(f"Error fetching all activities: {e}")
         return []
+
+
+# Backward compatibility
+fetch_weekly_progress = fetch_user_progress
